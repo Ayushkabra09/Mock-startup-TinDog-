@@ -1,1 +1,1 @@
-# Mock-startup-TinDog-
+TinDog Starting Files
